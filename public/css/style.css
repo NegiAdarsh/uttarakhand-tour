@@ -56,8 +56,6 @@ p
 #title
 {
     background-color: #59C1BD ;
-    /* height: 50%; */
-    
 }
 @media (max-width:1028px) 
 {
@@ -70,30 +68,24 @@ p
 }
 .container-fluid
 {
-    padding: 1% 1% 0% 3%; 
+    padding: 1% 1% 0px 1%; 
 }
 
 /* /* Navigation bar  */
 
-.navbar
-{
-    padding-bottom: 10px; 
-}
 .nav-item
 {
     padding: 0 18px;
 }
 .nav-link
 {
-    font-size: 1.7rem;
+    font-size: 1rem;
     font-family: 'Montserrat-lite', sans-serif;
     color: red;
-
-
 }
 .navbar-brand
 {
-    font-size: 2.5rem;
+    font-size: 1rem;
 }
 
 
@@ -103,7 +95,7 @@ p
 
 .download-button
 {
-    margin: 3% 3% 5% 0;
+    margin: 2% 2% 3% 0px;
 }
 
 /* Feature Box */
@@ -134,8 +126,6 @@ p
 
 
 /* Testimonial  */
-
-
 #testimonials
 {
     text-align: center;
@@ -225,14 +215,6 @@ p
     height: 600px;
 }
 
-
-.piechart_3d
-{
-    background-color: red;
-    /* text-align: center; */
-    padding: 2% 15%;
-}
-
 .testimonial-image
 {
     width: 1250px;
@@ -274,23 +256,4 @@ video
   padding-bottom: 0%;
 }
 
-}
-
-
-
-
-#chat_wrap
-{
-    position: relative;
-    padding-bottom: 100%;
-    height: 0px;
-    overflow: hidden;
-}
-#piechart
-{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 500px;
 }
