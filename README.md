@@ -43,7 +43,9 @@ We welcome contributions from the community to make this platform even better.
 ![4](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/aff3121d-d466-4368-b281-f72b5f227b7d)
 5.
 ![pay](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/2f9d4e5e-7431-40fe-b9be-1a3109909806)
-6.
+6. 
+
+
 ![Screenshot from 2023-09-29 15-26-06](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/00d77cd2-276c-4c41-ac0e-e47dda8f562e)
 
 
