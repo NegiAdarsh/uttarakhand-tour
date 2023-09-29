@@ -135,19 +135,15 @@ p
     color: white
 }
 
-
-.carousel-control-prev-icon
-{
-    background-color: black;
-}
-.carousel-control-next-icon
-{
- background-color: red;   
-}
 .carousel-item
 {
-    padding: 7% 15%;
+    padding: 2% 15%;
 
+}
+#today-special
+{
+    background-color: #59C1BD;
+    padding: 2% 15%;
 }
 
 
