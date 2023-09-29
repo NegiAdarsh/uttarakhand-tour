@@ -17,6 +17,20 @@ p
 }
 
 /* Heading */
+.special-heading
+{
+    font-size: 2rem;
+    color:#3B3486;
+    text-align: center;
+}
+
+@media (max-width:600px)
+{
+    .special-heading
+    {
+        font-size: 1rem;
+    }
+}
 .big-heading
 {
     font-family: 'Montserrat', sans-serif;
